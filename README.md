@@ -1,4 +1,4 @@
-![MOVV ScreenShot1](logo-movv.jpeg)
+![MOVV ScreenShot1](logo-movv.png)
 
 # MOVV
 
